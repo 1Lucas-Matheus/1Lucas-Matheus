@@ -30,9 +30,9 @@
 
 ## Algumas redes sociais
 
-[![Blog)](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/lucasmouradenada/) 
+[![Blog)](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCvRyPmQ_f9SG8GIMKyogs3A) 
 <br>
-[![Blog)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.youtube.com/channel/UCvRyPmQ_f9SG8GIMKyogs3A)
+[![Blog)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmouradenada/)
 
  ## Entre em contato
 
